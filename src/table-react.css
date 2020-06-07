@@ -1,0 +1,31 @@
+.react-table {
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  position: relative;
+}
+th, td {
+  text-align: left;
+  padding: 8px;
+  border-right: 3px solid #64766a;
+  color:#004116;
+}
+tr:nth-child(even){
+  background-color: #9cb0a2
+}
+tr:nth-child(odd){
+  background-color: #b6cbbc
+}
+th {
+  background-color: #45604d;
+  color: #f0f1f0;
+  border-right: 3px solid #64766a;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+th:last-child, td:last-child {
+  border-right:none
+}
