@@ -19,10 +19,10 @@ It requires "Node" software to run project.
  7. "css-loader": "^3.5.3",
  8. "file-loader": "^6.0.0",
  9. "html-webpack-plugin": "^4.3.0",
- 10."style-loader": "^1.2.1",
- 11."webpack": "^4.43.0",
- 12."webpack-cli": "^3.3.11",
- 13."webpack-dev-server": "^3.11.0"
+ 10. "style-loader": "^1.2.1",
+ 11. "webpack": "^4.43.0",
+ 12. "webpack-cli": "^3.3.11",
+ 13. "webpack-dev-server": "^3.11.0"
  
 ## Usage : 
  
