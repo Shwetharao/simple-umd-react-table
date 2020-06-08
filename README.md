@@ -47,9 +47,9 @@ clone webpack.config.babel.js, babelrc and src folder.
  npm run build
 
 ## Developed by using
-react - The Javacript framework 
-webpack and babel - Dependency for runnung and generating UMD file.
-HTML 
+	react - The Javacript framework,
+	webpack and babel - Dependency for runnung and generating UMD file,
+	HTML 
 
 ## Authors
 Shwetha Rao
