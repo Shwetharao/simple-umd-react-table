@@ -1,16 +1,14 @@
-# simple-umd-react-table
-Deploy React application to Non react application using UMD
 
-##About 
+## About 
 This is simple React application which display sample table developed to deploy across non reacat applications using UMD file.
  
-##Getting Started
+## Getting Started
 Following are the instructions used to copy of the project up and running on local machine for development and testing purposes. Refer deployment for notes on how to deploy the project on a live system.
 
-##Prerequisites
+## Prerequisites
 It requires "Node" software to run project. 
 
-###List of NPM package dependencies, 
+### List of NPM package dependencies, 
 
  1. "react": "^16.13.1",
  2. "react-dom": "^16.13.1"
@@ -26,7 +24,7 @@ It requires "Node" software to run project.
  12."webpack-cli": "^3.3.11",
  13."webpack-dev-server": "^3.11.0"
  
-##Usage : 
+## Usage : 
  
 clone the git repository and run, 
  	npm install 
@@ -43,15 +41,15 @@ npm install -D @babel/core @babel/preset-env "@babel/preset-react babel-loader c
 
 clone webpack.config.babel.js, babelrc and src folder.
 
-###Run project with 
+### Run project with 
  npm start 
-###Generate Build with 
+### Generate Build with 
  npm run build
 
-##Developed by using
+## Developed by using
 react - The Javacript framework 
 webpack and babel - Dependency for runnung and generating UMD file.
 HTML 
 
-##Authors
+## Authors
 Shwetha Rao
